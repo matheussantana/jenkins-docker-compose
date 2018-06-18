@@ -5,6 +5,7 @@ services:
   jenkins:
     image: pedrobrost/jenkins-docker-compose
     restart: always
+    container_name: jenkins
     ports:
       - 8080:8080
     volumes:
