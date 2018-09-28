@@ -1,4 +1,4 @@
-FROM jenkinsci/blueocean:1.6.2
+FROM jenkinsci/blueocean:1.8.3
 
 LABEL maintainer="pedro.brost97@gmail.com"
 
